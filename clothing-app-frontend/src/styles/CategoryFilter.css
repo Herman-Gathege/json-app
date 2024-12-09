@@ -1,0 +1,9 @@
+/* CategoryFilter.css */
+.filter-container {
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+select {
+  width: 100%;
+}
