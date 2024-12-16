@@ -16,6 +16,7 @@ const App = () => {
     "Swim Wear",
     "Shoes",
     "Jewelry",
+    "Office wear",
   ]);
   const [selectedCategory, setSelectedCategory] = useState("");
 

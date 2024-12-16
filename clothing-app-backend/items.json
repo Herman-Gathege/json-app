@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1733745480578,
+    "name": "black dress",
+    "category": "Ceremony Wear",
+    "price": 200,
+    "image": "/images/1733745468576.jpg"
+  },
+  {
+    "id": 1733745600143,
+    "name": "pink coat",
+    "category": "Office Wear",
+    "price": 200,
+    "image": "/images/1733745534815.jpg"
+  },
+  {
+    "id": 1733771782363,
+    "name": "shoes",
+    "category": "Shoes",
+    "price": 200,
+    "image": "/images/1733771768613.jpg"
+  }
+]
